@@ -26,4 +26,5 @@ Config example:
   num_workers: 2
   listener_url: "http://listener.alfredhq.org"
   hooks: "tcp://127.0.0.1:34125"
+  database_uri: "postgresql://localhost/alfred"
 
