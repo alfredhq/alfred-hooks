@@ -16,6 +16,7 @@ Tasks must be sent as dicts:
     }
 
 You can run it using this command::
+
   $ alfred-hooks config.yml
 
 Config example:
