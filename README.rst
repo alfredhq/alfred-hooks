@@ -23,6 +23,6 @@ Config example:
 .. code:: yaml
 
   num_workers: 2
-  listener_url: "http://listener.alfredhq.org",
+  listener_url: "http://listener.alfredhq.org"
   hooks: "tcp://127.0.0.1:34125"
 
