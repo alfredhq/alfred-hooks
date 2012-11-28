@@ -1,0 +1,6 @@
+nose
+mock
+pretend
+
+-e git+git://github.com/alfredhq/alfred-db.git#egg=alfred-db
+-e .
